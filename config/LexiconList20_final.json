@@ -1,0 +1,138 @@
+{
+  "schema version": "1.0",
+  "status": "frozen for stage 3 implementation",
+  "frozen on": "2026-09-09",
+  "frozen using": "Development subset only: 200 documents. Alias decisions recorded in alias decisions.csv.",
+  "system a": {
+    "description": "Matches canonical forms only."
+  },
+  "system b": {
+    "description": "Matches canonical forms and accepted aliases. Every match returns the canonical label."
+  },
+  "normalisation policy": {
+    "unicode_normalisation": "NFKC",
+    "lowercase": true,
+    "apostrophe_normalisation": "Curly apostrophes are converted to straight apostrophes.",
+    "dash normalisation": "En dashes and em dashes are converted to ASCII hyphens.",
+    "whitespace": "Repeated whitespace is collapsed to one space.",
+    "ordinary hyphens": "Preserved; ordinary hyphens are not converted to spaces."
+  },
+  "boundary policy": {
+    "left_boundary": "(?<![A-Za-z0-9+#&_.\\-])",
+    "right_boundary": "(?![A-Za-z0-9+#&_\\-])",
+    "internal_spaces": "One or more whitespace characters may represent a space inside a multiword form.",
+    "hyphen policy": "A candidate directly joined to a hyphen is blocked. Therefore ML-based and NLP-based do not match under the conservative baseline policy."
+  },
+  "skills": {
+    "python": {
+      "aliases": [],
+      "risk": "low"
+    },
+    "sql": {
+      "aliases": [],
+      "risk": "low"
+    },
+    "amazon web services": {
+      "aliases": [
+        "aws"
+      ],
+      "risk": "low"
+    },
+    "google cloud platform": {
+      "aliases": [
+        "gcp"
+      ],
+      "risk": "low"
+    },
+    "azure": {
+      "aliases": [],
+      "risk": "low"
+    },
+    "postgresql": {
+      "aliases": [
+        "postgres"
+      ],
+      "risk": "medium"
+    },
+    "mongodb": {
+      "aliases": [
+        "mongo"
+      ],
+      "risk": "medium"
+    },
+    "elasticsearch": {
+      "aliases": [],
+      "risk": "low"
+    },
+    "apache spark": {
+      "aliases": [
+        "spark",
+        "pyspark"
+      ],
+      "risk": "medium"
+    },
+    "apache kafka": {
+      "aliases": [
+        "kafka"
+      ],
+      "risk": "low"
+    },
+    "apache airflow": {
+      "aliases": [
+        "airflow"
+      ],
+      "risk": "low"
+    },
+    "docker": {
+      "aliases": [],
+      "risk": "low"
+    },
+    "kubernetes": {
+      "aliases": [
+        "k8s"
+      ],
+      "risk": "low"
+    },
+    "terraform": {
+      "aliases": [],
+      "risk": "low"
+    },
+    "git": {
+      "aliases": [],
+      "risk": "low"
+    },
+    "pandas": {
+      "aliases": [],
+      "risk": "low"
+    },
+    "power bi": {
+      "aliases": [
+        "powerbi"
+      ],
+      "risk": "medium"
+    },
+    "scikit-learn": {
+      "aliases": [
+        "sklearn"
+      ],
+      "risk": "low"
+    },
+    "machine learning": {
+      "aliases": [
+        "ml"
+      ],
+      "risk": "high"
+    },
+    "natural language processing": {
+      "aliases": [
+        "nlp"
+      ],
+      "risk": "medium"
+    }
+  },
+  "rejected or redundant_forms": {
+    "power-bi": "Rejected as an explicit alias because it had zero development-document matches.",
+    "pbi": "Rejected because it had zero development-document matches.",
+    "microsoft power bi": "Redundant because canonical power bi already appears inside the longer phrase."
+  }
+}
