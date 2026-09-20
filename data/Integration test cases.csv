@@ -1,0 +1,7 @@
+TestText,Expected System A,Expected System B,Reason
+,,,Both systems must identify every canonical form in one multi-skill sentence.
+,,,System A must miss alias-only forms. System B must map every approved alias to its canonical label.
+,,,Tests that canonical and alias-derived labels can be returned together.
+,,,Multiple forms of one concept must produce one canonical output label only.
+,,,"HTML/XML must not create machine learning, GitHub must not create git, and NoSQL must not create sql. Docker is the only valid output."
+,,,The current policy must preserve the documented ML-based false negative while still extracting valid canonical skills.
