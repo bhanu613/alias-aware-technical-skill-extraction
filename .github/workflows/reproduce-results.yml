@@ -8,7 +8,7 @@ on:
       - "data/**"
       - "results/residual_error_decisions.csv"
       - "src/**"
-      - "scripts/reproduce_results.py"
+      - "scripts/**"
       - "requirements.txt"
       - ".github/workflows/reproduce-results.yml"
 
@@ -27,6 +27,9 @@ jobs:
 
       - name: Install dependencies
         run: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+
+      - name: Print diagnostic counts
+        run: python scripts/diagnose_reproduction.py
 
       - name: Reproduce final results
         run: python scripts/reproduce_results.py
