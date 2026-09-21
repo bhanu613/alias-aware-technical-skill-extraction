@@ -109,10 +109,10 @@ python -m pip install -r requirements.txt
 
 Open the notebooks in the following order:
 
-1. [Notebook 1 — Data Preparation and Lexicon Design](notebooks/01%20Data%20Preparation%20and%20Lexicon%20Design.ipynb)
-2. [Notebook 2 — System Implementation and Testing](notebooks/02%20System%20Implementation%20and%20Testing.ipynb)
-3. [Notebook 3 — Gold Annotation Workflow](notebooks/03%20Gold%20Annotation%20Workflow.ipynb)
-4. [Notebook 4 — Final Evaluation and Results](notebooks/04%20Final%20Evaluation%20and%20Results.ipynb)
+1. [Notebook 1 Data Preparation and Lexicon Design](notebooks/01%20Data%20Preparation%20and%20Lexicon%20Design.ipynb)
+2. [Notebook 2 System Implementation and Testing](notebooks/02%20System%20Implementation%20and%20Testing.ipynb)
+3. [Notebook 3 Gold Annotation Workflow](notebooks/03%20Gold%20Annotation%20Workflow.ipynb)
+4. [Notebook 4 Final Evaluation and Results](notebooks/04%20Final%20Evaluation%20and%20Results.ipynb)
 
 For a quick reproduction of the published results, Notebook 4 is the main evaluation notebook. It independently loads the committed frozen evaluation data, gold annotations, lexicon, and matcher.
 
