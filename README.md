@@ -10,7 +10,7 @@ The project compares two deterministic, rule-based systems on the same independe
 
 The central research question is:
 
-> <img width="3539" height="123" alt="image" src="https://github.com/user-attachments/assets/dc9b58eb-7736-4caf-85bb-20b77a8cf9c2" />
+> ***How much and at what preicsion cost does alias-aware matching improve recall, and Fl compared with strict canonical matching?***
 
 
 ## Headline results
