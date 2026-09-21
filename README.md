@@ -10,7 +10,7 @@ The project compares two deterministic, rule-based systems on the same independe
 
 The central research question is:
 
-> <img width="3027" height="105" alt="image" src="https://github.com/user-attachments/assets/c4b9c25f-6877-472f-a4b4-8db0e6f76a4c" />
+> <img width="3539" height="123" alt="image" src="https://github.com/user-attachments/assets/dc9b58eb-7736-4caf-85bb-20b77a8cf9c2" />
 
 
 ## Headline results
