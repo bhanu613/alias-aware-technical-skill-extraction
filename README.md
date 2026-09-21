@@ -17,12 +17,11 @@ The central research question is:
 
 Evaluation uses 100 held-out job descriptions, 379 gold label instances, and document-level paired bootstrap resampling with 10,000 replicates. System B increased recall, micro F1, and exact-set-match rate while retaining perfect micro precision on this fixed corpus.
 
+
+<img width="1426" height="385" alt="image" src="https://github.com/user-attachments/assets/02fe9840-6cb5-4132-9cab-af32ca966d5a" />
+
 | Metric | System A | System B | System B − System A |
 |---|---:|---:|---:|
-| Micro precision | 1.0000 | 1.0000 | 0.0000 |
-| Micro recall | 0.7573 | 0.9683 | +0.2111 |
-| Micro F1 | 0.8619 | 0.9839 | +0.1221 |
-| Exact-set-match rate | 0.4100 | 0.8900 | +0.4800 |
 | True positives | 287 | 367 | +80 |
 | False positives | 0 | 0 | 0 |
 | False negatives | 92 | 12 | −80 |
