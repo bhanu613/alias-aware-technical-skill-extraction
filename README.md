@@ -9,7 +9,8 @@ The project compares two deterministic, rule-based systems on the same independe
 
 The central research question is:
 
-> Does alias-aware normalisation improve lexicon-based extraction of canonical technical skills from English data-related IT job postings, and what precision cost, if any, does it introduce?
+> <img width="3027" height="105" alt="image" src="https://github.com/user-attachments/assets/c4b9c25f-6877-472f-a4b4-8db0e6f76a4c" />
+
 
 ## Headline results
 
