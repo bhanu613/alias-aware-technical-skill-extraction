@@ -1,0 +1,3 @@
+System,Gold label instances,Predicted label instances,Documents,True positives,False positives,False negatives,Micro precision,Micro recall,Micro F1,Exact-set-match documents,Exact-set-match rate
+System A,379,287,100,287,0,92,1.0,0.7572559366754618,0.8618618618618619,41,0.41
+System B,379,367,100,367,0,12,1.0,0.9683377308707124,0.9839142091152815,89,0.89

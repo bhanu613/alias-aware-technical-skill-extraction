@@ -1,0 +1,101 @@
+Annotation order,id,Position,System A missed labels,Recovered by System B,System B residual missed labels
+1,0031e89e-0730-524b-bca2-7d7e5704dd3d,"Backend developer (Python, Golang or C#) Short Term",none,none,none
+2,04542ec5-2f52-555e-9453-5c39a1c41e2b,Data Engineer,none,none,none
+3,0494e9e9-452b-552d-93c6-f484ede863e8,Computer Vision - AI Software Engineer,docker; machine learning,none,docker; machine learning
+4,098ea499-fac1-5e9d-97a6-9c46bd7eb9b0,Senior Data Engineer,amazon web services; apache spark,amazon web services; apache spark,none
+5,0aa39ab0-11f4-5efd-bf54-02d936cf594c,Business Application Developer,power bi,power bi,none
+6,0aecc0af-b984-5cd8-945d-6a6553671341,Fullstack Python/Django/React Developer,none,none,none
+7,0dae9522-7a5d-5888-8821-3ca2b3f03b23,Big Data Engineer,apache spark,apache spark,none
+8,0e74af31-07dc-5621-9f7c-5c49d3f4834a,Senior Python Backend Engineer - Relocate,amazon web services,amazon web services,none
+9,1089b639-8242-5410-a887-16de33980af7,Python Senior,amazon web services,amazon web services,none
+10,12e84961-cd2e-5199-8c45-5fb970568902,Python Software Engineer,google cloud platform,none,google cloud platform
+11,13196cfb-1601-5ae0-80d9-541605348acb,Analyst BPM-system,postgresql,postgresql,none
+12,14d74ca7-1e07-5dbc-a20d-b909006f25ec,Full-stack Developer (Python 80% and FE( React or Backbone or similar) 20%),amazon web services,amazon web services,none
+13,1950b147-a527-5298-9150-259848f71c4f,Senior Python Developer (with DevOps),amazon web services; elasticsearch,amazon web services,elasticsearch
+14,1a2e2045-e8c8-5808-8f46-6e92085ea52d,Data Developer,apache kafka,apache kafka,none
+15,1b35d374-7efb-542c-86aa-8af039f4b10b,Marketing Data Analyst,none,none,none
+16,1bfb3a6c-9766-53ba-a635-a5c0b130aa9d,Middle Python Engineer,amazon web services,amazon web services,none
+17,1ed116ba-a0d3-5bd4-8e0a-7ed51a72e35c,Strong Middle Python Developer,none,none,none
+18,2032982c-74ee-5ed4-856d-713e4782d81c,Middle Python Backend Developer,amazon web services; docker,amazon web services,docker
+19,20b8d737-ce1b-51c9-982f-cb864648dc10,Business Data Analyst,none,none,none
+20,20dd6d4e-8c76-5fe7-9aa4-24e86e7b7256,Research Data Engineer,none,none,none
+21,21ef50a8-5e24-5366-8162-a2eb8e84963d,Python Developer,none,none,none
+22,22e58011-8190-5bc3-90a7-beca5ea14b55,Middle Python Developer,apache kafka,apache kafka,none
+23,28fb9103-dca1-509b-9666-2112e564071a,Data Analytics Engineer,amazon web services; apache airflow; machine learning,amazon web services; apache airflow; machine learning,none
+24,2a872da1-da34-59a3-8053-b3f97186f460,Python developer,none,none,none
+25,2b70784f-2e41-5aeb-a4bc-466ea6fc1829,data scientist junior,natural language processing,natural language processing,none
+26,2c2d9912-e7ea-575c-8c5d-67d0601cd2ba,Strong Junior or Middle ML Engineer for RaccoonDoc IDP,none,none,none
+27,2c6a15a2-1902-59f7-a856-04c476b7c10f,Senior Big Data Engineer for Consumer Reporting Company,google cloud platform,google cloud platform,none
+28,2cd87f9f-2344-5f4a-8116-478cee403b91,Senior Data Engineer,none,none,none
+29,2e2e86b8-9bd7-5275-9596-0edd9dd7c208,Back-end Developer (Python),none,none,none
+30,2eb6bd61-5c73-57d2-bc25-f532c6245797,Machine Learning Engineer,machine learning,machine learning,none
+31,3352912d-82a4-5bbd-9127-8fbc78449742,Jr. Software Developer,amazon web services; google cloud platform,amazon web services; google cloud platform,none
+32,356b9dbd-2cbe-5063-82d8-39c66f5576f9,Data Platform Engineer,apache kafka; apache spark; google cloud platform,apache kafka; apache spark; google cloud platform,none
+33,367d8145-d3bb-511f-a184-f69337f67381,Data Engineer,none,none,none
+34,368f1e77-9ad5-503d-a2e5-6ebd0a0b4fe3,Python developer,amazon web services; apache kafka; postgresql,amazon web services; apache kafka; postgresql,none
+35,3a6e47d0-989c-5d47-a125-08efa31c5146,"NLP Engineer, Machine Learning Engineer",natural language processing,natural language processing,none
+36,3b0792ff-68f7-52d1-ad81-3b2104877c07,Data Analyst,google cloud platform,google cloud platform,none
+37,3d574d75-1ac4-5126-b6ca-cdff1d9e9730,Team/Tech Lead Backend Engineer,none,none,none
+38,3e9c3c7a-846d-55d4-9479-2a43e03df1b1,Trainee Database Developer,none,none,none
+39,3feaac25-4519-59ae-bb67-d944f1510c63,Middle+/Senior Python developer,apache spark,apache spark,none
+40,40ebcd9b-c5c8-56ff-8ce1-dc4d2f063d37,Matlab Engineer,machine learning,machine learning,none
+41,45700d9b-de53-5764-acf4-adfd1110aa00,Python Software Engineer / Web3 Research Engineer,amazon web services,amazon web services,none
+42,46214003-5117-588e-9004-c40c12bc51d5,Data Analyst,amazon web services,amazon web services,none
+43,4642168b-bee2-51c2-ac21-79c1e2f16fdc,Data Science Manager,apache spark,apache spark,none
+44,47cd37e2-ffe3-55fb-ae4e-fe814f20de59,Backend Engineer,google cloud platform,none,google cloud platform
+45,487523f9-a9e2-58d7-b46c-6d176d6572e2,Senior/Lead Python Developer,none,none,none
+46,48d760a5-dee2-5e68-915c-7aca027433b2,Web Analyst for PMI,none,none,none
+47,49bc7fe8-469e-5d03-b6e1-41ebe08eb4ec,Senior Software Engineer - .Net & Python,none,none,none
+48,4a0cc79d-6444-58c6-8d3a-b8df8ac6057f,NLP/AI Senior Engineer,amazon web services; google cloud platform; machine learning; natural language processing,amazon web services; google cloud platform; machine learning; natural language processing,none
+49,4ba18117-fe8a-51e1-a344-a49a17e275b9,Senior Python developer,mongodb,mongodb,none
+50,4d207dd3-f0ce-5acc-b424-bc757dbe2653,"Full Stack Developer (Python, React+GIS skills)",none,none,none
+51,4d6f28d6-c770-5ac4-94d0-e97e26b59df2,Middle  Data Science Engineer,amazon web services,amazon web services,none
+52,4d8bd07a-45e0-5539-9ec1-ed2c2a6d12d2,Data Scientist / Product Analyst,machine learning,machine learning,none
+53,4ee8ef87-d38a-5dcb-b66d-7e4c12f8a2b6,Senior Python Developer (6 months project),amazon web services,amazon web services,none
+54,4ffb1d33-859a-50ec-8fe8-cc38c0bc28bc,Middle Python Developer,google cloud platform,none,google cloud platform
+55,50ed4097-aeb3-5130-ae83-05b7a7385880,Senior Data Engineer,postgresql,postgresql,none
+56,53c599f1-68e7-51dd-b59f-e2f4dfeebb80,CTO/Product,none,none,none
+57,5419aff1-f72c-5606-8b9d-a496d0e7db92,Qlik/Power BI,power bi,power bi,none
+58,552c8b47-e978-56b8-91ab-1e81bf69c6fb,Data Engineer,amazon web services; google cloud platform,amazon web services; google cloud platform,none
+59,55a3634d-96a4-5258-8962-a8cc5ad295cd,Junior Machine learning / Computer vision Engineer,none,none,none
+60,577143c6-37ba-5182-9a46-d27c23968e2e,Senior Integration Engineer,amazon web services,amazon web services,none
+61,59356466-6a9c-5f08-862a-8d2d8e0c3ff7,Data Scientist,none,none,none
+62,5a61e326-71fd-569b-ac53-7e9a7291d177,ETL Specialist,amazon web services; apache airflow,amazon web services; apache airflow,none
+63,5b069204-3826-57e8-b607-ce2781e58916,Junior Python developer,none,none,none
+64,5d972d23-7504-50ff-ae95-c933c5c65652,Data Engineer,amazon web services,amazon web services,none
+65,5fd6dbb8-c613-5af7-bfc9-3d0faacf6a2a,BI Engineer,amazon web services; machine learning,amazon web services; machine learning,none
+66,5ff94982-cafe-5b3d-995d-711bb8ff6fa5,# Senior Python Developer,amazon web services,amazon web services,none
+67,601504fe-9718-55ee-bbdc-bc1dd54f4a48,Snr MS SQL Server Engineer (with deep SSAS experience),none,none,none
+68,60dc7831-3cc8-5179-a3fb-7190657ba5d1,Strong/Middle Web Developer Python(Django),none,none,none
+69,63c88e34-4290-5c7f-9244-e917f9ab2055,Senior Data Engineer (Python),none,none,none
+70,672ccd5e-eb32-5aaa-8288-ac49e46add7a,Junior/Middle Python Developer (with C++ knowledge),none,none,none
+71,684059e5-fe20-5fa7-ad77-74bb3694718a,Database Administrator,google cloud platform; postgresql,google cloud platform,postgresql
+72,6a365c54-aa0e-53a0-966d-5f99d013468a,Data Analyst/ DWH Developer,none,none,none
+73,6a8b8bec-783e-50f3-ada1-8ea6f8072e17,Data Scientist,none,none,none
+74,6a9340a8-113a-58ce-9903-f4a7c0d048a0,Cloud Engineer,none,none,none
+75,6b4fd424-bfcb-5d1e-8d06-46c2225af6c0,Data Analyst,power bi,power bi,none
+76,713d83dc-e3cc-5f31-9d34-5b2f8d957167,Lead Machine Learning Engineer,none,none,none
+77,717a4853-da65-57a6-b253-e2f7ed2ec443,Senior Full Stack Developer (Poland),apache kafka,apache kafka,none
+78,72da340f-3e69-5085-a89e-e6140b3216fb,Backend Engineer,amazon web services,amazon web services,none
+79,733ca3e7-8502-578b-972c-785d9522cb62,Computer vision/AI developer for Norwegian Aquatech company,none,none,none
+80,73a5455e-c53b-5e9b-9065-7132248a67e7,Senior Data Engineer (Customer behavior),amazon web services; google cloud platform,amazon web services; google cloud platform,none
+81,75126653-9838-5ea6-a291-fc9becb282ab,"Full-stack Python Developer (Fintech, Investments)",amazon web services; postgresql,amazon web services; postgresql,none
+82,77bc3ea8-0224-54cd-8d2a-3bbc5c853849,Quantitative Developer,none,none,none
+83,78362cd9-b4c5-5862-bd94-8b12017ead42,Middle python developer,none,none,none
+84,784bb0e6-83f9-5596-8636-6ce7139caa72,Market Researcher,none,none,none
+85,799e37b8-67c3-59e7-821a-9a72b1445475,Solidity (also Web3.js & Full Stack) developer - NFT projects,none,none,none
+86,79c365b2-7d85-5f51-8f71-0ce18d8cfdce,Back-End (Python/Django) Developer (Swedish product),none,none,none
+87,7a88be53-dd19-5a6b-8f16-035646ce0b32,Junior Data Engineer,none,none,none
+88,7ac2ee1f-5ca0-5da5-ac59-3c3efe161015,Senior Python developer (with AWS /Azure/Google Cloud certification),amazon web services; apache spark; google cloud platform; power bi,amazon web services; apache spark; power bi,google cloud platform
+89,7b527f95-e28b-542c-926b-37dccacda50f,Senior Data Engineer,amazon web services,amazon web services,none
+90,7b643574-69f4-5d0f-b76e-8c7bcf974aa4,AI / Neural Networks Team Lead,none,none,none
+91,7bc9aee7-dcfd-5670-bbea-2f50aabbde9a,Fullstack Developer (Sweden),google cloud platform,google cloud platform,none
+92,7befe1c4-9113-5968-b5d1-8da57b6a30b2,Backend Developer. High Frequency Trading and Stat Arb,amazon web services,amazon web services,none
+93,7c5714c8-267c-5789-a3be-d3f1727a5105,Software-Developer for Platform Security,none,none,none
+94,7dd87c4a-4482-55e0-b396-a40a12d097a0,Full Stack Web Developer,amazon web services,amazon web services,none
+95,7f543f63-31af-57cb-964c-928e3d962e14,Data Engineer,amazon web services; apache airflow; apache spark; google cloud platform; kubernetes,amazon web services; apache airflow; apache spark; google cloud platform,kubernetes
+96,8234e0b4-e7ac-553d-b334-38f12e811d9a,Backend Engineer,amazon web services; google cloud platform; mongodb,amazon web services; google cloud platform,mongodb
+97,84b56fa7-b07b-5ddc-b95b-4ffd2cc08f9f,Backend Developer (Helsinki),none,none,none
+98,86ae7428-f475-54cd-9aff-4fb1a5b7a407,Python Developer / Django Developer,google cloud platform; kubernetes,google cloud platform; kubernetes,none
+99,89b39015-0c1d-5641-8a8c-92644174098c,Data Scientist,google cloud platform; kubernetes,kubernetes,google cloud platform
+100,8f2b0675-aeb6-5e93-a85d-ba3cc578fad2,Machine Learning Engineer,apache spark; machine learning; scikit-learn,apache spark; machine learning; scikit-learn,none
