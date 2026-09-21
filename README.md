@@ -1,4 +1,5 @@
-# Alias-Aware Technical-Skill Extraction
+# <img width="3755" height="297" alt="image" src="https://github.com/user-attachments/assets/84882ccd-c467-4f0b-8929-7ce35d942f48" />
+
 
 A reproducible NLP study of whether an alias-aware lexicon improves extraction of canonical technical-skill mentions from English data-related IT job postings.
 
