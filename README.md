@@ -186,7 +186,10 @@ The residual error analysis is descriptive. It documents limitations of the froz
 
 ## Reuse and citation
 
-If you reuse or extend this project, please cite my name <img width="383" height="105" alt="image" src="https://github.com/user-attachments/assets/62d27c07-21dd-4bf5-8496-992b3d79c983" />,
-retain the provenance of the frozen artifacts and distinguish any changed lexicon, annotation scheme, data split, or matcher policy as a new experiment.
+Please cite my name:- 
+
+<img width="383" height="105" alt="image" src="https://github.com/user-attachments/assets/62d27c07-21dd-4bf5-8496-992b3d79c983" />
+
+If you reuse or extend this project, retain the provenance of the frozen artifacts and distinguish any changed lexicon, annotation scheme, data split, or matcher policy as a new experiment.
 
 For the source corpus, follow the citation guidance supplied by the original Hugging Face dataset maintainers.
