@@ -88,6 +88,9 @@ The study follows a staged design that separates lexicon development, implementa
 
 5. **Final evaluation.** Notebook 4 generates both systems' predictions, performs document-level TP/FP/FN scoring, reports aggregate and per-label metrics, audits alias recovery, analyses the 12 residual System B false-negative instances, and estimates uncertainty with a paired bootstrap.
 
+<img width="1512" height="907" alt="image" src="https://github.com/user-attachments/assets/4009e2ed-b6b4-4522-ae24-a73fb5f6ac0b" />
+
+
 ## Reproduce the results
 
 ### Requirements
