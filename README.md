@@ -90,6 +90,25 @@ The study follows a staged design that separates lexicon development, implementa
 
 <img width="1512" height="907" alt="image" src="https://github.com/user-attachments/assets/4009e2ed-b6b4-4522-ae24-a73fb5f6ac0b" />
 
+## Annotation
+
+An independent human-annotation interface was used to annotate and gold label all the 100 evaluated held out documents.
+
+The interface is not included in public notebooks delibrately to avoid any live annotation and altering of final results, it was done in private working colab notebook to manually mark/label every document through colab itself and save documents directly in a working annotation csv file linked in google drive ensuring updation at every save and no loss in progress.
+
+## Full independent annotation interface
+
+The interface:
+
+- resumes at the first document marked `not started`;
+- saves each annotation immediately to the same Drive-based working CSV;
+- permits direct navigation to a selected annotation order;
+- displays only document text, metadata, canonical label categories,
+  and human annotation fields.
+
+<img width="912" height="470" alt="Screenshot 2026-09-21 120245" src="https://github.com/user-attachments/assets/fb070e13-2ce8-4047-8f35-9d343bb68c84" />
+<img width="895" height="466" alt="Screenshot 2026-09-21 120138" src="https://github.com/user-attachments/assets/b3bc0b7e-e0a3-4ee8-b998-b478fccbdd18" />
+
 
 ## Reproduce the results
 
